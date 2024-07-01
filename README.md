@@ -22,9 +22,10 @@ VideoAutoPublish 是套基于 Electron + Api 实现的非自动化测试的发�
 
 ![](https://github.com/JuanFaC/video_auto_publish/blob/main/Screen/20240701110939.png?raw=true)
 
-## 微信扫码交流
+## 沟通交流 [Telegram](https://t.me/SYANANgg)
 
 ![](https://github.com/JuanFaC/video_auto_publish/blob/main/Screen/20240701111125.png?raw=true)
+
 
 ## 温馨提示
 
